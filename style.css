@@ -7,10 +7,9 @@ body {
   display: flex;
   width: 1440px;
   padding-top: 104px;
-  padding-left: 133px;
-  padding-right: 133px;
   padding-bottom: 168px;
   background-color: #f8f8f8;
+  margin: 0 auto;
 }
 
 .header-title {
